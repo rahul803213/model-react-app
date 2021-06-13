@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vilakshan-coder/model-react-app/static/css/main.57ba217b.chunk.css",
+    "main.js": "/vilakshan-coder/model-react-app/static/js/main.53fcb2f6.chunk.js",
+    "main.js.map": "/vilakshan-coder/model-react-app/static/js/main.53fcb2f6.chunk.js.map",
+    "runtime-main.js": "/vilakshan-coder/model-react-app/static/js/runtime-main.4161c707.js",
+    "runtime-main.js.map": "/vilakshan-coder/model-react-app/static/js/runtime-main.4161c707.js.map",
+    "static/js/2.d536ee95.chunk.js": "/vilakshan-coder/model-react-app/static/js/2.d536ee95.chunk.js",
+    "static/js/2.d536ee95.chunk.js.map": "/vilakshan-coder/model-react-app/static/js/2.d536ee95.chunk.js.map",
+    "index.html": "/vilakshan-coder/model-react-app/index.html",
+    "precache-manifest.2ec8c9b6e340509ab71b8e7b58f8f79d.js": "/vilakshan-coder/model-react-app/precache-manifest.2ec8c9b6e340509ab71b8e7b58f8f79d.js",
+    "service-worker.js": "/vilakshan-coder/model-react-app/service-worker.js",
+    "static/css/main.57ba217b.chunk.css.map": "/vilakshan-coder/model-react-app/static/css/main.57ba217b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4161c707.js",
+    "static/js/2.d536ee95.chunk.js",
+    "static/css/main.57ba217b.chunk.css",
+    "static/js/main.53fcb2f6.chunk.js"
+  ]
+}
